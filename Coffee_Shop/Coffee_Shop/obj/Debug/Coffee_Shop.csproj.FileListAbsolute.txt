@@ -1,0 +1,10 @@
+F:\project\Traing\Coffee_Shop\Coffee_Shop\bin\Debug\Coffee_Shop.exe.config
+F:\project\Traing\Coffee_Shop\Coffee_Shop\bin\Debug\Coffee_Shop.exe
+F:\project\Traing\Coffee_Shop\Coffee_Shop\bin\Debug\Coffee_Shop.pdb
+F:\project\Traing\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.csprojAssemblyReference.cache
+F:\project\Traing\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.Form1.resources
+F:\project\Traing\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+F:\project\Traing\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.csproj.GenerateResource.cache
+F:\project\Traing\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.csproj.CoreCompileInputs.cache
+F:\project\Traing\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.exe
+F:\project\Traing\Coffee_Shop\Coffee_Shop\obj\Debug\Coffee_Shop.pdb
